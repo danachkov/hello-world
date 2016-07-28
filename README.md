@@ -1,2 +1,3 @@
 # hello-world
-My first github repository.
+
+First commit ever! Yeah!
